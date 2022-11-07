@@ -1,0 +1,18 @@
+.container{
+    padding: 5%;
+}
+.col{
+    padding-left: 200px;
+}
+.box{
+    padding-left: 20px;
+    padding-bottom: 3em;
+}
+.box img{
+    border-radius: 10px;
+    height: 150px
+}
+.link{
+    text-decoration: none;
+    color:black
+}
